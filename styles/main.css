@@ -1,4 +1,171 @@
 body {
   margin: 0; }
 
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 50px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 60px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: #fff;
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); }
+
+.nav__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+.nav__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-right: 20px; }
+
+.nav__item:last-child {
+  margin: 0; }
+
+.nav__link {
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 60px;
+  margin: 0;
+  color: black;
+  position: relative; }
+
+.nav__link:hover {
+  color: #00acdc; }
+
+.is-active {
+  color: #00acdc; }
+  .is-active::after {
+    content: "";
+    display: block;
+    height: 4px;
+    border-radius: 8px;
+    background: #00acdc;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0; }
+
+.catalog {
+  margin: 50px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  max-width: 992px; }
+  .catalog__cards {
+    width: 200px;
+    height: 403px;
+    border: 1px solid #f3f3f3;
+    border-radius: 5px; }
+
+.card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-size: 11px;
+  line-height: 13px;
+  padding: 30px 14px 14px;
+  margin: 0 24px 49px; }
+  .card__image {
+    width: 160px;
+    height: 134px;
+    margin: 0 auto 45px; }
+  .card__title {
+    margin: 0 0 6px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px; }
+  .card__code {
+    margin: 0 0 5px; }
+  .card__info {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 0 0 8px; }
+  .card__rating {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; }
+    .card__rating .stars__star {
+      width: 15px;
+      height: 15px;
+      margin-right: 4px;
+      background-image: url(../images/star.svg);
+      background-repeat: no-repeat;
+      background-position: center; }
+    .card__rating .stars__star:nth-child(-n+4) {
+      background-image: url(../images/star-active.svg); }
+  .card__price {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: baseline;
+        -ms-flex-align: baseline;
+            align-items: baseline;
+    margin: 0 0 20px; }
+  .card__price-text {
+    margin: 0; }
+  .card__price-amount {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin: 0; }
+  .card__button-buy {
+    display: block;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    width: 170px;
+    height: 40px;
+    padding: 11px;
+    background-color: #00acdc;
+    border: 1px solid #00acdc;
+    border-radius: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 700; }
+    .card__button-buy:hover {
+      background-color: #fff;
+      color: #00acdc; }
+
 /*# sourceMappingURL=main.css.map */
