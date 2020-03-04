@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Entire_document_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Entire_document_1024px.png",
         "selector": "document",
         "fileName": "Entire_document_1024px.png",
         "label": "Entire document",
@@ -21,7 +21,7 @@ report({
             "height": -50
           },
           "misMatchPercentage": "0.21",
-          "analysisTime": 204
+          "analysisTime": 612
         }
       },
       "status": "pass"
@@ -29,7 +29,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Entire_document_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Entire_document_1200px.png",
         "selector": "document",
         "fileName": "Entire_document_1200px.png",
         "label": "Entire document",
@@ -46,7 +46,7 @@ report({
             "height": -50
           },
           "misMatchPercentage": "0.18",
-          "analysisTime": 191
+          "analysisTime": 855
         }
       },
       "status": "pass"
@@ -54,7 +54,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Header_tag_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Header_tag_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Header_tag_1024px.png",
         "selector": "header",
         "fileName": "Header_tag_1024px.png",
         "label": "Header tag",
@@ -78,7 +78,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Header_tag_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Header_tag_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Header_tag_1200px.png",
         "selector": "header",
         "fileName": "Header_tag_1200px.png",
         "label": "Header tag",
@@ -102,7 +102,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Nav_tag_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Nav_tag_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Nav_tag_1024px.png",
         "selector": "nav",
         "fileName": "Nav_tag_1024px.png",
         "label": "Nav tag",
@@ -126,7 +126,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Nav_tag_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Nav_tag_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Nav_tag_1200px.png",
         "selector": "nav",
         "fileName": "Nav_tag_1200px.png",
         "label": "Nav tag",
@@ -150,7 +150,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Link_with_data-qa_hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Link_with_data-qa_hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Link_with_data-qa_hover_1024px.png",
         "selector": "[data-qa=\"nav-hover\"]",
         "fileName": "Link_with_data-qa_hover_1024px.png",
         "label": "Link with data-qa_hover",
@@ -174,7 +174,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Link_with_data-qa_hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Link_with_data-qa_hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Link_with_data-qa_hover_1200px.png",
         "selector": "[data-qa=\"nav-hover\"]",
         "fileName": "Link_with_data-qa_hover_1200px.png",
         "label": "Link with data-qa_hover",
@@ -198,7 +198,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Link_with_class_is-active_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Link_with_class_is-active_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Link_with_class_is-active_1024px.png",
         "selector": "a.is-active",
         "fileName": "Link_with_class_is-active_1024px.png",
         "label": "Link with class_is-active",
@@ -222,7 +222,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Link_with_class_is-active_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Link_with_class_is-active_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Link_with_class_is-active_1200px.png",
         "selector": "a.is-active",
         "fileName": "Link_with_class_is-active_1200px.png",
         "label": "Link with class_is-active",
@@ -246,7 +246,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Main_tag_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Main_tag_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Main_tag_1024px.png",
         "selector": "main",
         "fileName": "Main_tag_1024px.png",
         "label": "Main tag",
@@ -263,16 +263,16 @@ report({
             "height": 0
           },
           "misMatchPercentage": "34.65",
-          "analysisTime": 426
+          "analysisTime": 662
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Main_tag_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Main_tag_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Main_tag_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Main_tag_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Main_tag_1200px.png",
         "selector": "main",
         "fileName": "Main_tag_1200px.png",
         "label": "Main tag",
@@ -289,16 +289,16 @@ report({
             "height": 0
           },
           "misMatchPercentage": "33.39",
-          "analysisTime": 811
+          "analysisTime": 269
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Main_tag_1200px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Main_tag_1200px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1024px.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Card_with_data-qa_card_1024px.png",
         "label": "Card with data-qa_card",
@@ -314,17 +314,17 @@ report({
             "width": 0,
             "height": 1
           },
-          "misMatchPercentage": "22.32",
-          "analysisTime": 143
+          "misMatchPercentage": "12.33",
+          "analysisTime": 345
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1024px.png",
         "selector": "[data-qa=\"card\"].__n1",
         "fileName": "Card_with_data-qa_card_1024px.png",
         "label": "Card with data-qa_card",
@@ -340,17 +340,17 @@ report({
             "width": 0,
             "height": 1
           },
-          "misMatchPercentage": "22.32",
-          "analysisTime": 58
+          "misMatchPercentage": "12.33",
+          "analysisTime": 355
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1024px.png",
         "selector": "[data-qa=\"card\"].__n2",
         "fileName": "Card_with_data-qa_card_1024px.png",
         "label": "Card with data-qa_card",
@@ -366,17 +366,17 @@ report({
             "width": 0,
             "height": 1
           },
-          "misMatchPercentage": "22.32",
-          "analysisTime": 235
+          "misMatchPercentage": "12.33",
+          "analysisTime": 179
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1024px.png",
         "selector": "[data-qa=\"card\"].__n3",
         "fileName": "Card_with_data-qa_card_1024px.png",
         "label": "Card with data-qa_card",
@@ -392,69 +392,69 @@ report({
             "width": 0,
             "height": 1
           },
-          "misMatchPercentage": "22.32",
-          "analysisTime": 57
-        },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card_1024px.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1024px.png",
-        "selector": "[data-qa=\"card\"].__n4",
-        "fileName": "Card_with_data-qa_card_1024px.png",
-        "label": "Card with data-qa_card",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 1,
-        "url": "http://localhost:8080/index.html",
-        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
-        "expect": 0,
-        "viewportLabel": "1024px",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 1
-          },
-          "misMatchPercentage": "22.32",
-          "analysisTime": 64
-        },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card_1024px.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1024px.png",
-        "selector": "[data-qa=\"card\"].__n5",
-        "fileName": "Card_with_data-qa_card_1024px.png",
-        "label": "Card with data-qa_card",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 1,
-        "url": "http://localhost:8080/index.html",
-        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
-        "expect": 0,
-        "viewportLabel": "1024px",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": 1
-          },
-          "misMatchPercentage": "22.32",
+          "misMatchPercentage": "12.33",
           "analysisTime": 119
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1024px.png",
+        "selector": "[data-qa=\"card\"].__n4",
+        "fileName": "Card_with_data-qa_card_1024px.png",
+        "label": "Card with data-qa_card",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "http://localhost:8080/index.html",
+        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
+        "expect": 0,
+        "viewportLabel": "1024px",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 1
+          },
+          "misMatchPercentage": "12.33",
+          "analysisTime": 307
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1024px.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1024px.png",
+        "selector": "[data-qa=\"card\"].__n5",
+        "fileName": "Card_with_data-qa_card_1024px.png",
+        "label": "Card with data-qa_card",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "http://localhost:8080/index.html",
+        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
+        "expect": 0,
+        "viewportLabel": "1024px",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 1
+          },
+          "misMatchPercentage": "12.33",
+          "analysisTime": 351
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1024px.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1024px.png",
         "selector": "[data-qa=\"card\"].__n6",
         "fileName": "Card_with_data-qa_card_1024px.png",
         "label": "Card with data-qa_card",
@@ -470,17 +470,17 @@ report({
             "width": 0,
             "height": 1
           },
-          "misMatchPercentage": "22.32",
-          "analysisTime": 174
+          "misMatchPercentage": "12.33",
+          "analysisTime": 132
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1024px.png",
         "selector": "[data-qa=\"card\"].__n7",
         "fileName": "Card_with_data-qa_card_1024px.png",
         "label": "Card with data-qa_card",
@@ -496,17 +496,17 @@ report({
             "width": 0,
             "height": 1
           },
-          "misMatchPercentage": "22.32",
-          "analysisTime": 62
+          "misMatchPercentage": "12.33",
+          "analysisTime": 105
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",
@@ -520,18 +520,19 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 1
           },
-          "misMatchPercentage": "0.36",
-          "analysisTime": 68
-        }
+          "misMatchPercentage": "22.32",
+          "analysisTime": 197
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1200px.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"].__n1",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",
@@ -545,18 +546,19 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 1
           },
-          "misMatchPercentage": "0.36",
-          "analysisTime": 263
-        }
+          "misMatchPercentage": "22.32",
+          "analysisTime": 129
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1200px.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"].__n2",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",
@@ -570,18 +572,19 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 1
           },
-          "misMatchPercentage": "0.36",
-          "analysisTime": 342
-        }
+          "misMatchPercentage": "22.32",
+          "analysisTime": 161
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1200px.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"].__n3",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",
@@ -595,18 +598,19 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 1
           },
-          "misMatchPercentage": "0.36",
-          "analysisTime": 95
-        }
+          "misMatchPercentage": "22.32",
+          "analysisTime": 231
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1200px.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"].__n4",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",
@@ -620,18 +624,19 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 1
           },
-          "misMatchPercentage": "0.36",
-          "analysisTime": 193
-        }
+          "misMatchPercentage": "22.32",
+          "analysisTime": 318
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1200px.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"].__n5",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",
@@ -647,16 +652,17 @@ report({
             "width": 0,
             "height": 1
           },
-          "misMatchPercentage": "0.36",
-          "analysisTime": 73
-        }
+          "misMatchPercentage": "22.32",
+          "analysisTime": 107
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1200px.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"].__n6",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",
@@ -670,18 +676,19 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 1
           },
-          "misMatchPercentage": "0.36",
-          "analysisTime": 360
-        }
+          "misMatchPercentage": "22.32",
+          "analysisTime": 457
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1200px.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"].__n7",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",
@@ -695,18 +702,19 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 1
           },
-          "misMatchPercentage": "0.36",
-          "analysisTime": 306
-        }
+          "misMatchPercentage": "22.32",
+          "analysisTime": 157
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card_1200px.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1024px.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Card_with_data-qa_card-hover_1024px.png",
         "label": "Card with data-qa_card-hover",
@@ -723,16 +731,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 257
+          "analysisTime": 238
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1024px.png",
         "selector": "[data-qa=\"card\"].__n1",
         "fileName": "Card_with_data-qa_card-hover_1024px.png",
         "label": "Card with data-qa_card-hover",
@@ -746,19 +754,19 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -1
+            "height": 1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 116
+          "analysisTime": 107
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1024px.png",
         "selector": "[data-qa=\"card\"].__n2",
         "fileName": "Card_with_data-qa_card-hover_1024px.png",
         "label": "Card with data-qa_card-hover",
@@ -775,16 +783,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 419
+          "analysisTime": 92
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1024px.png",
         "selector": "[data-qa=\"card\"].__n3",
         "fileName": "Card_with_data-qa_card-hover_1024px.png",
         "label": "Card with data-qa_card-hover",
@@ -801,16 +809,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 580
+          "analysisTime": 445
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1024px.png",
         "selector": "[data-qa=\"card\"].__n4",
         "fileName": "Card_with_data-qa_card-hover_1024px.png",
         "label": "Card with data-qa_card-hover",
@@ -827,16 +835,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 234
+          "analysisTime": 133
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1024px.png",
         "selector": "[data-qa=\"card\"].__n5",
         "fileName": "Card_with_data-qa_card-hover_1024px.png",
         "label": "Card with data-qa_card-hover",
@@ -853,16 +861,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 176
+          "analysisTime": 362
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1024px.png",
         "selector": "[data-qa=\"card\"].__n6",
         "fileName": "Card_with_data-qa_card-hover_1024px.png",
         "label": "Card with data-qa_card-hover",
@@ -879,16 +887,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 267
+          "analysisTime": 456
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1024px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1024px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1024px.png",
         "selector": "[data-qa=\"card\"].__n7",
         "fileName": "Card_with_data-qa_card-hover_1024px.png",
         "label": "Card with data-qa_card-hover",
@@ -898,6 +906,110 @@ report({
         "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
         "expect": 0,
         "viewportLabel": "1024px",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1
+          },
+          "misMatchPercentage": "8.23",
+          "analysisTime": 331
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1200px.png",
+        "selector": "[data-qa=\"card\"]",
+        "fileName": "Card_with_data-qa_card-hover_1200px.png",
+        "label": "Card with data-qa_card-hover",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "http://localhost:8080/index.html",
+        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
+        "expect": 0,
+        "viewportLabel": "1200px",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1
+          },
+          "misMatchPercentage": "8.23",
+          "analysisTime": 352
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1200px.png",
+        "selector": "[data-qa=\"card\"].__n1",
+        "fileName": "Card_with_data-qa_card-hover_1200px.png",
+        "label": "Card with data-qa_card-hover",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "http://localhost:8080/index.html",
+        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
+        "expect": 0,
+        "viewportLabel": "1200px",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1
+          },
+          "misMatchPercentage": "8.23",
+          "analysisTime": 340
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1200px.png",
+        "selector": "[data-qa=\"card\"].__n2",
+        "fileName": "Card_with_data-qa_card-hover_1200px.png",
+        "label": "Card with data-qa_card-hover",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "http://localhost:8080/index.html",
+        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
+        "expect": 0,
+        "viewportLabel": "1200px",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -1
+          },
+          "misMatchPercentage": "8.23",
+          "analysisTime": 444
+        },
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1200px.png",
+        "selector": "[data-qa=\"card\"].__n3",
+        "fileName": "Card_with_data-qa_card-hover_1200px.png",
+        "label": "Card with data-qa_card-hover",
+        "requireSameDimensions": false,
+        "misMatchThreshold": 1,
+        "url": "http://localhost:8080/index.html",
+        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
+        "expect": 0,
+        "viewportLabel": "1200px",
         "diff": {
           "isSameDimensions": false,
           "dimensionDifference": {
@@ -907,118 +1019,14 @@ report({
           "misMatchPercentage": "8.23",
           "analysisTime": 304
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1024px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1200px.png",
-        "selector": "[data-qa=\"card\"]",
-        "fileName": "Card_with_data-qa_card-hover_1200px.png",
-        "label": "Card with data-qa_card-hover",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 1,
-        "url": "http://localhost:8080/index.html",
-        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
-        "expect": 0,
-        "viewportLabel": "1200px",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -1
-          },
-          "misMatchPercentage": "8.23",
-          "analysisTime": 220
-        },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1200px.png",
-        "selector": "[data-qa=\"card\"].__n1",
-        "fileName": "Card_with_data-qa_card-hover_1200px.png",
-        "label": "Card with data-qa_card-hover",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 1,
-        "url": "http://localhost:8080/index.html",
-        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
-        "expect": 0,
-        "viewportLabel": "1200px",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -1
-          },
-          "misMatchPercentage": "8.23",
-          "analysisTime": 234
-        },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1200px.png",
-        "selector": "[data-qa=\"card\"].__n2",
-        "fileName": "Card_with_data-qa_card-hover_1200px.png",
-        "label": "Card with data-qa_card-hover",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 1,
-        "url": "http://localhost:8080/index.html",
-        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
-        "expect": 0,
-        "viewportLabel": "1200px",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -1
-          },
-          "misMatchPercentage": "8.23",
-          "analysisTime": 131
-        },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1200px.png",
-        "selector": "[data-qa=\"card\"].__n3",
-        "fileName": "Card_with_data-qa_card-hover_1200px.png",
-        "label": "Card with data-qa_card-hover",
-        "requireSameDimensions": false,
-        "misMatchThreshold": 1,
-        "url": "http://localhost:8080/index.html",
-        "referenceUrl": "https://mate-academy.github.io/layout_solutions/catalog/",
-        "expect": 0,
-        "viewportLabel": "1200px",
-        "diff": {
-          "isSameDimensions": false,
-          "dimensionDifference": {
-            "width": 0,
-            "height": -1
-          },
-          "misMatchPercentage": "8.23",
-          "analysisTime": 93
-        },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
-      },
-      "status": "fail"
-    },
-    {
-      "pair": {
-        "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1200px.png",
         "selector": "[data-qa=\"card\"].__n4",
         "fileName": "Card_with_data-qa_card-hover_1200px.png",
         "label": "Card with data-qa_card-hover",
@@ -1035,16 +1043,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 94
+          "analysisTime": 241
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1200px.png",
         "selector": "[data-qa=\"card\"].__n5",
         "fileName": "Card_with_data-qa_card-hover_1200px.png",
         "label": "Card with data-qa_card-hover",
@@ -1061,16 +1069,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 111
+          "analysisTime": 362
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1200px.png",
         "selector": "[data-qa=\"card\"].__n6",
         "fileName": "Card_with_data-qa_card-hover_1200px.png",
         "label": "Card with data-qa_card-hover",
@@ -1087,16 +1095,16 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 101
+          "analysisTime": 384
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card-hover_1200px.png",
-        "test": "..\\bitmaps_test\\20200303-191538\\Card_with_data-qa_card-hover_1200px.png",
+        "test": "..\\bitmaps_test\\20200304-171921\\Card_with_data-qa_card-hover_1200px.png",
         "selector": "[data-qa=\"card\"].__n7",
         "fileName": "Card_with_data-qa_card-hover_1200px.png",
         "label": "Card with data-qa_card-hover",
@@ -1113,9 +1121,9 @@ report({
             "height": -1
           },
           "misMatchPercentage": "8.23",
-          "analysisTime": 104
+          "analysisTime": 318
         },
-        "diffImage": "..\\bitmaps_test\\20200303-191538\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
+        "diffImage": "..\\bitmaps_test\\20200304-171921\\failed_diff_Card_with_data-qa_card-hover_1200px.png"
       },
       "status": "fail"
     }
