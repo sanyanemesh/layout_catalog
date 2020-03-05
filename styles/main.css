@@ -99,18 +99,17 @@ body {
   .card__image {
     width: 160px;
     height: 134px;
-    margin: 0 auto 44px;
+    margin: 0 auto 40px;
     -webkit-transition: -webkit-transform 0.5s;
     transition: -webkit-transform 0.5s;
     transition: transform 0.5s;
     transition: transform 0.5s, -webkit-transform 0.5s;
-    border: 1px solid #f3f3f3;
+    border: 3px solid transparent;
     border-radius: 4px; }
     .card__image:hover {
-      -webkit-transform: scale(1.2, 1.2);
-              transform: scale(1.2, 1.2);
-      border: 3px solid #f3f3f3;
-      margin: 0 auto 40px; }
+      -webkit-transform: scale(1.2);
+              transform: scale(1.2);
+      border: 3px solid #f3f3f3; }
   .card__title {
     margin: 0 0 6px;
     font-size: 12px;
