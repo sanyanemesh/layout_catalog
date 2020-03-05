@@ -44,7 +44,9 @@ body {
   line-height: 60px;
   margin: 0;
   color: black;
-  position: relative; }
+  position: relative;
+  -webkit-transition: color 0.5s;
+  transition: color 0.5s; }
 
 .nav__link:hover {
   color: #00acdc; }
@@ -97,7 +99,18 @@ body {
   .card__image {
     width: 160px;
     height: 134px;
-    margin: 0 auto 45px; }
+    margin: 0 auto 44px;
+    -webkit-transition: -webkit-transform 0.5s;
+    transition: -webkit-transform 0.5s;
+    transition: transform 0.5s;
+    transition: transform 0.5s, -webkit-transform 0.5s;
+    border: 1px solid #f3f3f3;
+    border-radius: 4px; }
+    .card__image:hover {
+      -webkit-transform: scale(1.2, 1.2);
+              transform: scale(1.2, 1.2);
+      border: 3px solid #f3f3f3;
+      margin: 0 auto 40px; }
   .card__title {
     margin: 0 0 6px;
     font-size: 12px;
@@ -163,7 +176,9 @@ body {
     text-decoration: none;
     font-size: 14px;
     line-height: 16px;
-    font-weight: 700; }
+    font-weight: 700;
+    -webkit-transition: background-color 0.5s, color 0.5s;
+    transition: background-color 0.5s, color 0.5s; }
     .card__button-buy:hover {
       background-color: #fff;
       color: #00acdc; }
